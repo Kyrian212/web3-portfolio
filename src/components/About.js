@@ -1,19 +1,14 @@
 // Import Assets
-import profile from '../assets/profile.png';
+import profile from '../assets/kk.jpeg';
 
 const About = () => {
     return (
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+            Product Manager with 4+ years of experience and additional product marketing experience. 
+            Expertise in taking actual customer requirements and developing valuable, innovative, and successful products. 
+            Collaborative and decisive, with excellent communication and interpersonal skills.
             </p>
         </section>
     );
